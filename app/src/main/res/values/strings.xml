@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SoccerLiveHD</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_youtube">YouTube</string>
+    <string name="title_soccer">Soccer</string>
+    <string name="title_cricket">Cricket</string>
+    <string name="title_Graph">Graph</string>
+</resources>
