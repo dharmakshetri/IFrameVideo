@@ -23,10 +23,6 @@
             android:name="android.webkit.WebView.MetricsOptOut"
             android:value="true" />
 
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/title_activity_main2"
-            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
