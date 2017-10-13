@@ -1,5 +1,6 @@
 ## IFrameVideo
-Display IFRAME EMBEDDED video like Youtube, soccer and cricket as well as animated graph in kotlin
+Display IFRAME EMBEDDED video like Youtube, soccer and cricket as well as animated graph in [kotlin](https://kotlinlang.org/).
+It can be used for play live soccer, cricket, songs and other live streaming.
 
 ### Snapshots
 
